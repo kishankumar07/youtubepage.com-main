@@ -1,3 +1,3 @@
-This is the clone of youtube media I creatd using HTML and CSS. 
+This is the clone of youtube media I creatd using pure HTML and CSS. 
 Used camel case naming convention 
-Keeping coding standard 
+Coding standard was maintained
